@@ -29,7 +29,7 @@
   "license": "MIT",
   "homepage": "https://github.com/jacklam718/react-native-popup-dialog/blob/master/README.md",
   "dependencies": {
-    "babel-plugin-flow-react-proptypes": "^9.1.1",
+    "babel-plugin-flow-react-proptypes": "^25.1.0",
     "prop-types": "^15.6.0",
     "react-native-root-siblings": "^3.2.1"
   },
@@ -38,7 +38,7 @@
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
-    "babel-core": "^6.26.3",
+    "babel-core": "^7.0.0-0",
     "babel-eslint": "^8.0.2",
     "babel-jest": "^23.0.1",
     "babel-preset-react-native": "^4.0.0",
